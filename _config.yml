@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://influentcoder.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vietwow.github.io"
 
 github:
   username: influentcoder # change to your GitHub username
